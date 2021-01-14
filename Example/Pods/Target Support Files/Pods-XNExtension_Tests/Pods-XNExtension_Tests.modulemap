@@ -1,0 +1,6 @@
+framework module Pods_XNExtension_Tests {
+  umbrella header "Pods-XNExtension_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

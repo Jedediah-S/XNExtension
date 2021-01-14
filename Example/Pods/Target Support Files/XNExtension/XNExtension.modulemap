@@ -1,0 +1,6 @@
+framework module XNExtension {
+  umbrella header "XNExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}
