@@ -1,0 +1,29 @@
+# XNExtension
+
+[![CI Status](https://img.shields.io/travis/Jedediah/XNExtension.svg?style=flat)](https://travis-ci.org/Jedediah/XNExtension)
+[![Version](https://img.shields.io/cocoapods/v/XNExtension.svg?style=flat)](https://cocoapods.org/pods/XNExtension)
+[![License](https://img.shields.io/cocoapods/l/XNExtension.svg?style=flat)](https://cocoapods.org/pods/XNExtension)
+[![Platform](https://img.shields.io/cocoapods/p/XNExtension.svg?style=flat)](https://cocoapods.org/pods/XNExtension)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+XNExtension is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'XNExtension'
+```
+
+## Author
+
+Jedediah, 13432414304@163.com
+
+## License
+
+XNExtension is available under the MIT license. See the LICENSE file for more info.
